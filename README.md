@@ -11,10 +11,12 @@ Run for a SpringApplication class. Navigate to http://localhost:8080/.
 🖱 Lombok </br>
 🖱 Swagger Doc </br>
 🖱 H2 In Memory DB </br>
+🖱 SonarLint  </br>
 
 ## Test
 🖱 Swagger Doc  </br>
 🖱 Postman  </br>
+
 
 ## Results
 
